@@ -60,6 +60,10 @@ streamlit run app.py
 
 ✅ Achieved X% accuracy / anomaly detection rate / prediction success.
 
+--> Screenshot 
+<img width="1919" height="993" alt="Screenshot 2025-08-20 112623" src="https://github.com/user-attachments/assets/6c0a598a-8597-442c-bcfa-ab42d798aa9e" />
+<img width="1058" height="506" alt="Screenshot 2025-08-20 112652" src="https://github.com/user-attachments/assets/4102f62f-cab2-484f-bead-9e488011792d" />
+
 📈 Future Improvements
 
 Add more robust feature engineering
@@ -75,3 +79,6 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 📜 License
 
 This project is licensed under the MIT License.
+
+
+
