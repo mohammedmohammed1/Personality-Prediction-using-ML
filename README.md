@@ -80,5 +80,13 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 
 This project is licensed under the MIT License.
 
+📧 Contact
+
+Mohammed Yasin
+
+Email:mohamedyasin9168@gmail.com
+
+LinkedIn: (https://www.linkedin.com/in/mohammed-yasin-12a2392a6/)
+
 
 
