@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 python main.py
 
-Streamlit 
+--> Streamlit 
 
 streamlit run app.py
 
