@@ -40,8 +40,7 @@ Visualization:  Streamlit
 
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/project-name.git
-cd project-name
+git clone https:https://github.com/mohammedmohammed1/Personality-Prediction-using-ML
 
 
 2️⃣ Install dependencies
